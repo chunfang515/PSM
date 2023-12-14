@@ -1,4 +1,4 @@
 Command:
 ```
-ts-node psm.ts --csvfile PSMrawdata
+ts-node PSM.ts --csvfile PSMrawdata
 ```
