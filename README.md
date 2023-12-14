@@ -1,4 +1,4 @@
-Some basic Git commands are:
+Command:
 ```
 ts-node psm.ts --csvfile PSMrawdata
 ```
